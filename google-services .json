@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "763594062961",
+    "firebase_url": "https://otpapp-22e56.firebaseio.com",
+    "project_id": "otpapp-22e56",
+    "storage_bucket": "otpapp-22e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763594062961:android:4472c4cb4901cf0b",
+        "android_client_info": {
+          "package_name": "com.example.mnandini.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763594062961-2t6m4le21hknrs06gt3r9tac63unnlp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mnandini.myapp",
+            "certificate_hash": "be869593c8198799946db1b967824addf160ae33"
+          }
+        },
+        {
+          "client_id": "763594062961-1qosfs93dpevuus5dii6qb2vt6108rbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxlPCdGRpJNZMW2GhpYLxlxfb6XwgEVr4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763594062961-1qosfs93dpevuus5dii6qb2vt6108rbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+package com.example.mnandini.myapp;
+
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+
+public class mainactivity {
+    private TextView t1;
+    private EditText s1,s2;
+    private Button b1;
+
+
+}
